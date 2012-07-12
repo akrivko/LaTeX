@@ -1,0 +1,5 @@
+\select@language {russian}
+\contentsline {section}{\numberline {1}first}{2}
+\contentsline {section}{\numberline {2}second}{2}
+\contentsline {section}{\numberline {3}third}{2}
+\contentsline {section}{\numberline {4}\IeC {\cyrch }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyrery }\IeC {\cyrr }\IeC {\cyre }}{2}
